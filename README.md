@@ -1,0 +1,3 @@
+📡 WifiDeauthTwin is a wireless security project that demonstrates Wi‑Fi Deauthentication and Evil Twin attacks in a controlled and ethical environment. Using a NodeMCU ESP8266 programmed in Arduino C, the project simulates how attackers can disconnect users from a legitimate wireless network and deceive them into connecting to a rogue access point with the same SSID.
+
+🔐 The project highlights real‑world wireless security vulnerabilities and emphasizes the importance of secure Wi‑Fi configurations and user awareness. It is designed strictly for educational and cybersecurity training purposes, helping learners understand wireless attack mechanisms and corresponding mitigation strategies.
